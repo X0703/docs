@@ -1,6 +1,6 @@
 ---
 title: "Baidu Refresh Token Callback"
-toc: false
+toc: true
 ---
 
 <NaiveClient>
